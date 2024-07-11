@@ -5,14 +5,14 @@
     in exactly n H.
     Prototype: def minOperations(n)
     Return an integer
-    if n is impossible to achieve, return 0
+    if n is not archievable, return 0
     """
 
 
 def minOperations(n):
     """
     Single character H
-    Fewest number of operations
+    Least number of operations
     """
 
     if n <= 1:
